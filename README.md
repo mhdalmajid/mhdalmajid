@@ -1,4 +1,4 @@
-###  Hey! I'm Moe 👋
+### Hey! I'm Moe 👋
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhdalmajid)
 
@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdalmajid&show_icons=true&theme=radical)
