@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdalmajid&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdalmajid&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhdalmajid)](https://github.com/anuraghazra/github-readme-stats) -->
 
