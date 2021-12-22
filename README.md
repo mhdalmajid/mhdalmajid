@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdalmajid&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats) -->
 
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhdalmajid)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhdalmajid)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdalmajid&show_icons=true&theme=onedark&count_private=true&include_all_commits=true)
