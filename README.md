@@ -12,6 +12,9 @@
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 <!--
 **mhdalmajid/mhdalmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,6 +35,3 @@ Here are some ideas to get you started:
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhdalmajid)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhdalmajid&show_icons=true&theme=onedark&count_private=true&include_all_commits=true) -->
-
-
-![GitHub Contributors Image](https://contrib.rocks/image?https://github.com/mhdalmajid/)
