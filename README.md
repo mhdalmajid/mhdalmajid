@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on Private project with FMC
-- 💬 Ask me about typescript and javascript 
+- 💬 Ask me about Typescript,Javascript,css and Graphql
 - 📫 How to reach me: mhd.almajid@gmail.com
 
 <!--
