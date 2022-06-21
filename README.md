@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats-hamodey85.vercel.app/api?username=mhdalmajid&show_icons=true&theme=onedark&count_private=true&include_all_commits=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats-hamodey85.vercel.app/api?username=mhdalmajid&show_icons=true&theme=onedark&count_private=true&include_all_commits=true) -->
