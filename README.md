@@ -6,13 +6,13 @@
 
 ### Hey! I'm Moe 👋 Glad to see you here!
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhdalmajid)
 
 
 
 - 🔭 I’m currently working on Private project with FMC
 - 💬 Ask me about Reactjs,Typescript,Javascript,css and Graphql
-- 📫 How to reach me: mhd.almajid@gmail.com
+- 📫 How to reach me: :man-shrugging: :mario_luigi_dance:
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhdalmajid)
 
 <!--
 **mhdalmajid/mhdalmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
