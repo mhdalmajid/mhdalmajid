@@ -8,11 +8,14 @@
 ```typescript
 
 interface Father{
+  wife: 1 // 😅
+  children: number // 😍
+  isHappy: "Alhamdu llah"
   [key:string]: unknown
 }
 interface Developer<T extends any> extends Father {
     stack: T
-    company:string
+    company: string
 }
  
 type TStatus<T extends Developer<T> | Father> = T extends Father
