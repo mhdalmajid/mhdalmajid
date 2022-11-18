@@ -17,9 +17,6 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhdalmajid)
 
 
-**mhdalmajid/mhdalmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 ### Things I code with
 
