@@ -1,4 +1,10 @@
-### Hey! I'm Moe 👋
+
+<div style="text-align: center">
+  <img width="100%" src="./assets/forest.png" />
+</div>
+
+
+### Hey! I'm Moe 👋 Glad to see you here!
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhdalmajid)
 
