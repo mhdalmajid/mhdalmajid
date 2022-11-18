@@ -8,26 +8,18 @@
 
 
 
+- 🧡 In love wih TypeScript
+- 🔭 I’m currently working on Private project with FMC 🙃
+- 💬 Ask me about Reactjs - Typescript - Javascript - css - Graphql
+- 🌱 I’m currently 👀 Into Fullstack-Development & DevOps
+- 📫 How to reach me: 🤷‍♂️
 
-- 🔭 I’m currently working on Private project with FMC
-- 💬 Ask me about Reactjs,Typescript,Javascript,css and Graphql
-- 📫 How to reach me: :man-shrugging: :mario_luigi_dance:
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhdalmajid)
 
-<!--
+
 **mhdalmajid/mhdalmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Things I code with
 
