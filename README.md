@@ -3,9 +3,23 @@
   <img width="100%" src="./assets/header.jpg" />
 </div>
 
+<h1 align="center"> Hey! 👋 I'm Mohammed!</h1>
 
-### Hey! I'm Mohammed 👋 Glad to see you here!
+```typescript
 
+interface Father{
+  [key:string]: unknown
+}
+interface Developer<T extends any> extends Father {
+    stack: T
+    company:string
+}
+ 
+type TStatus<T extends Developer<T> | Father> = T extends Father
+  ? Father
+  : Developer<T>;
+
+```
 
 
 - 🧡 In love wih TypeScript
