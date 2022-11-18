@@ -1,6 +1,6 @@
 
 <div style="text-align: center">
-  <img width="100%" src="./assets/forest.png" />
+  <img width="100%" src="./assets/header.jpg" />
 </div>
 
 
