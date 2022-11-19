@@ -25,7 +25,7 @@ type TStatus<T extends Developer<T> | Father> = T extends Father
 ```
 
 <div style="text-align: center">
-  <img width="100%" src="./assets/party.jpg" />
+  <img width="100%" src="./assets/party.gif" />
 </div>
 
 - 🧡 In love wih TypeScript
