@@ -24,9 +24,7 @@ type TStatus<T extends Developer<T> | Father> = T extends Father
 
 ```
 
-<div style="text-align: center">
-  <img width="100%" src="./assets/party.gif" />
-</div>
+
 
 - 🧡 In love wih TypeScript
 - 🔭 I’m currently working on Private project with FMC 🙃
@@ -59,3 +57,7 @@ type TStatus<T extends Developer<T> | Father> = T extends Father
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-hamodey85.vercel.app/api?username=mhdalmajid&show_icons=true&theme=onedark&count_private=true&include_all_commits=true) -->
+
+<div style="text-align: center">
+  <img width="100%" src="./assets/party.gif" />
+</div>
