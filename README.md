@@ -33,6 +33,10 @@ type TStatus<T extends Developer<T> | Father> = T extends Father
 - 📫 How to reach me: 🤷‍♂️
 
 
+<div style="text-align: center">
+  <img width="100%" src="./assets/cycle-rider.gif" />
+</div>
+
 ### Things I code with
 
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
@@ -59,5 +63,5 @@ type TStatus<T extends Developer<T> | Father> = T extends Father
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-hamodey85.vercel.app/api?username=mhdalmajid&show_icons=true&theme=onedark&count_private=true&include_all_commits=true) -->
 
 <div style="text-align: center">
-  <img width="100%" height="300" src="./assets/party.gif" />
+  <img width="100%" src="./assets/party.gif" />
 </div>
