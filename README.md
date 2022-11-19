@@ -17,13 +17,16 @@ interface Developer<T extends any> extends Father {
     stack: T
     company: string
 }
- 
+
 type TStatus<T extends Developer<T> | Father> = T extends Father
   ? Father
   : Developer<T>;
 
 ```
 
+<div style="text-align: center">
+  <img width="100%" src="./assets/party.jpg" />
+</div>
 
 - 🧡 In love wih TypeScript
 - 🔭 I’m currently working on Private project with FMC 🙃
