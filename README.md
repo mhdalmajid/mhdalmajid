@@ -1,6 +1,6 @@
 
 <div style="text-align: center">
-  <img width="100%" src="./assets/header.jpg" />
+  <img width="100%" src="./assets/header.gif" />
 </div>
 
 <h1 align="center"> Hey! 👋 I'm Mohammed!</h1>
@@ -59,5 +59,5 @@ type TStatus<T extends Developer<T> | Father> = T extends Father
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-hamodey85.vercel.app/api?username=mhdalmajid&show_icons=true&theme=onedark&count_private=true&include_all_commits=true) -->
 
 <div style="text-align: center">
-  <img width="100%" src="./assets/party.gif" />
+  <img width="100%" height="300" src="./assets/party.gif" />
 </div>
