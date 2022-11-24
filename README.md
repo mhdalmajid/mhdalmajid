@@ -5,6 +5,8 @@
 
 <h1 align="center"> Hey! 👋 I'm Mohammed!</h1>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Almajid?label=Follow)](https://twitter.com/mhdalmajid)
+[![Linkedin:Mohammed almajid](https://img.shields.io/badge/Mohammed%20Almajid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammedalmajid/)]([https://www.linkedin.com/in/ahmed-abd/](https://www.linkedin.com/in/mohammedalmajid/))
 ```typescript
 
 interface Father{
