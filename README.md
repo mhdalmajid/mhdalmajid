@@ -1,6 +1,6 @@
 
 <div style="text-align: center">
-  <img width="100%" src="./assets/header.gif" />
+  <img width="100%" src="./assets/header.gif"  title="..." loading="lazy" />
 </div>
 
 <h1 align="center"> Hey! 👋 I'm Mohammed!</h1>
@@ -34,7 +34,7 @@ type TStatus<T extends Developer<T> | Father> = T extends Father
 
 
 <div style="text-align: center">
-  <img width="100%" src="./assets/cycle-rider.gif" />
+  <img width="100%" src="./assets/cycle-rider.gif"  title="..." loading="lazy" />
 </div>
 
 ### Things I code with
@@ -63,5 +63,5 @@ type TStatus<T extends Developer<T> | Father> = T extends Father
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-hamodey85.vercel.app/api?username=mhdalmajid&show_icons=true&theme=onedark&count_private=true&include_all_commits=true) -->
 
 <div style="text-align: center">
-  <img width="100%" src="./assets/party.gif" />
+  <img width="100%" src="./assets/party.gif"  title="..." loading="lazy" />
 </div>
