@@ -6,7 +6,7 @@
 <h1 align="center"> Hey! 👋 I'm Mohammed!</h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mhdalmajid?label=Follow)](https://twitter.com/mhdalmajid)
-[![Linkedin: M Almajid](https://img.shields.io/badge/-mohammedalmajid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammedalmajid/)](https://www.linkedin.com/in/mohammedalmajid/)
+[![Linkedin: M Almajid](https://img.shields.io/badge/-m Almajid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammedalmajid/)](https://www.linkedin.com/in/mohammedalmajid/)
 
 ```typescript
 
