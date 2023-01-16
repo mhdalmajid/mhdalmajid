@@ -11,8 +11,7 @@
 ```typescript
 
 interface Father{
-  wife: 1 // 😅
-  children: number // 😍
+  children: number 
   isHappy: "Alhamdu llah"
   [key:string]: unknown
 }
