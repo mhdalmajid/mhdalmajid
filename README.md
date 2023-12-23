@@ -29,7 +29,7 @@ type TStatus<T extends Developer<T> | Father> = T extends Father
 
 
 - 🧡 In love wih TypeScript
-- 🔭 I’m currently working on Private project with FMC 🙃
+- 🔭 I’m currently working on Private project with DOE 🙃
 - 💬 Ask me about Reactjs - Typescript - Javascript - css - Graphql
 - 🌱 I’m currently 👀 Into Fullstack-Development & DevOps
 - 📫 How to reach me: 🤷‍♂️
